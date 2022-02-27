@@ -1,1 +1,2 @@
 another-fileで編集　rebase用
+pull時のrebase用
